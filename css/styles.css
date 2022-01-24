@@ -52,7 +52,7 @@ main {
   position: absolute;
   z-index: -1;
   bottom: 0;
-  background-image: url("/images/pattern-background-desktop.svg");
+  background-image: url("https://cdn.shopify.com/s/files/1/0040/8551/4369/files/pattern-background-desktop.svg?v=1643002842");
   background-repeat: no-repeat;
   background-position: top left;
 }
@@ -218,6 +218,6 @@ main {
     font-size: 26px;
   }
   .wave-container {
-    background-image: url("/images/pattern-background-mobile.svg");
+    background-image: url("https://cdn.shopify.com/s/files/1/0040/8551/4369/files/pattern-background-mobile.svg?v=1643002842");
   }
 }
