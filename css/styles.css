@@ -34,6 +34,7 @@ body {
   height: 100vh;
   position: relative;
   background-color: var(--Bg-blue-light);
+  box-shadow: 0 20px 10px 0px #8777ff47;
 }
 main {
   display: flex;
